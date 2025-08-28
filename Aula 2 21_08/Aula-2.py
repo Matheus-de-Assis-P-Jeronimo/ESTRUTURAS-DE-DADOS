@@ -28,3 +28,4 @@ while (i<= n):
     i += 1
     print("Soma de 1 a até {n}: {soma}")
     break #força a parada da estrutura de repetição
+#---------------------------------------------------
