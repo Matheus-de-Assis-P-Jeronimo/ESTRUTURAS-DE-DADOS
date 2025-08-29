@@ -85,4 +85,5 @@ def exercicio3():# resolução correta do que foi peço
                 return
 exercicio3()
 #---------------------------------------------------
-print([6,0,-1])
+# Lista
+l = [x **2 for x in range(10)] # lista de quadrados
